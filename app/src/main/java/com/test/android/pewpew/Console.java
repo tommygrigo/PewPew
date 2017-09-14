@@ -55,11 +55,24 @@ public class Console extends AppCompatActivity implements View.OnClickListener{
             public void onDataChange(DataSnapshot dataSnapshot) {
                 nikname = dataSnapshot.child("Users/"+user.getUid()+"/nikname").getValue(String.class);
                 //Toast.makeText(Console.this, nikname, Toast.LENGTH_SHORT).show();
-
+                //TODO: Bug da risolvere: impedire che quando si blocca e si risblocca il cellulare le coordinate vengano riazzerate !!
                 Map<String,Object> list = new HashMap<String,Object>();
                 list.put(nikname,myPlayer);
                 rootRef.child("Players").updateChildren(list);
                 playerRef = rootRef.child("Players/"+nikname);
+                playerRef.addValueEventListener(new ValueEventListener() {
+                    @Override
+                    public void onDataChange(DataSnapshot dataSnapshot) {
+                        myPlayer.x = dataSnapshot.child("x").getValue(Integer.class);
+                        myPlayer.y = dataSnapshot.child("y").getValue(Integer.class);
+
+                    }
+
+                    @Override
+                    public void onCancelled(DatabaseError databaseError) {
+
+                    }
+                });
             }
 
             @Override
@@ -67,6 +80,7 @@ public class Console extends AppCompatActivity implements View.OnClickListener{
 
             }
         });
+
 
     }
 
@@ -74,38 +88,22 @@ public class Console extends AppCompatActivity implements View.OnClickListener{
     @Override
     public void onClick(View view) {
         int id = view.getId();
-        final int[] xserver = new int[1];
-        final int[] yserver = new int[1];
-        playerRef.addValueEventListener(new ValueEventListener() {
-            @Override
-            public void onDataChange(DataSnapshot dataSnapshot) {
-                xserver[0] = (int) dataSnapshot.child(playerRef + "x").getValue();
-                yserver[0] = (int) dataSnapshot.child(playerRef + "y").getValue();
-
-            }
-
-            @Override
-            public void onCancelled(DatabaseError databaseError) {
-
-            }
-        });
-
 
         switch (id) {
             case R.id.Left_button:
-                myPlayer.x = xserver[0] - 1;
+                myPlayer.x--;
                 break;
 
             case R.id.Right_button:
-                myPlayer.x = xserver[0] + 1;
+                myPlayer.x++;
                 break;
 
             case R.id.Up_button:
-                myPlayer.y = yserver[0] - 1;
+                myPlayer.y--;
                 break;
 
             case R.id.Down_button:
-                myPlayer.y = xserver[0] + 1;
+                myPlayer.y--;
                 break;
 
             default:
@@ -116,21 +114,11 @@ public class Console extends AppCompatActivity implements View.OnClickListener{
 
     }
 
-        public void updatePlayer()
-        {
-            Map<String,Object> list = new HashMap<String,Object>();
-            list.put(nikname,myPlayer);
-            rootRef.child("Players").updateChildren(list);
-        }
-
-
-
-
-
-
-
-
-
+    public void updatePlayer() {
+        Map<String, Object> list = new HashMap<String, Object>();
+        list.put(nikname, myPlayer);
+        rootRef.child("Players").updateChildren(list);
+    }
 
 
 }

@@ -1,18 +1,10 @@
 [
     {
-        "merged": "H:\\davide\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
-        "source": "H:\\davide\\PewPew\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/media/tommy/tom/Workspace/Project Game/PewPew/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "H:\\davide\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
-        "source": "H:\\davide\\PewPew\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "H:\\media\\tommy\\tom\\Workspace\\Project Game\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
-        "source": "H:\\media\\tommy\\tom\\Workspace\\Project Game\\PewPew\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "H:\\media\\tommy\\tom\\Workspace\\Project Game\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
-        "source": "H:\\media\\tommy\\tom\\Workspace\\Project Game\\PewPew\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/media/tommy/tom/Workspace/Project Game/PewPew/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "H:\\media\\tommy\\tom\\Workspace\\Project Game\\PewPew\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+        "outputFile": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,31 +11,7 @@
                     "endOffset": 117
                 },
                 "from": {
-                    "file": "H:\\root\\.android\\build-cache\\5a0123da98c9bae5b23c37284998c37acacfb001\\output\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 66,
-                        "endOffset": 117
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "H:\\davide\\PewPew\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 66,
-                    "endOffset": 117
-                },
-                "from": {
-                    "file": "C:\\Users\\Stefano\\.android\\build-cache\\dfb2e02f1feb1e1c78d4fa2a18d800ac596f0882\\output\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "file": "/root/.android/build-cache/5a0123da98c9bae5b23c37284998c37acacfb001/output/res/values-h720dp-v13/values-h720dp-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
