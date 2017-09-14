@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "294186937184",
+    "firebase_url": "https://not-so-awesome-game.firebaseio.com",
+    "project_id": "not-so-awesome-game",
+    "storage_bucket": "not-so-awesome-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294186937184:android:bfbc57fdb6dd86ce",
+        "android_client_info": {
+          "package_name": "com.test.android.pewpew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294186937184-rogvbrqounke3g42bdht9u2m14lqv2ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFCgrUAV4coIM9wi19Hc2DlB9SPACN3_8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

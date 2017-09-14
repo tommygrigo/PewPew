@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">294186937184-rogvbrqounke3g42bdht9u2m14lqv2ru.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://not-so-awesome-game.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">294186937184</string>
+    <string name="google_api_key" translatable="false">AIzaSyDFCgrUAV4coIM9wi19Hc2DlB9SPACN3_8</string>
+    <string name="google_app_id" translatable="false">1:294186937184:android:bfbc57fdb6dd86ce</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDFCgrUAV4coIM9wi19Hc2DlB9SPACN3_8</string>
+    <string name="google_storage_bucket" translatable="false">not-so-awesome-game.appspot.com</string>
+    <string name="project_id" translatable="false">not-so-awesome-game</string>
+</resources>
