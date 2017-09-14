@@ -13,6 +13,7 @@ public class Player {
     public Player()
     {
         this.x = 0;
+
         this.y = 0;
         this.score = 0;
         this.life = 100;
