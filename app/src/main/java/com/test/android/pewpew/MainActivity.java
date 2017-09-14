@@ -207,6 +207,7 @@ public class MainActivity extends AppCompatActivity {
                     break;
                 case 3:
                     rootView = inflater.inflate(R.layout.logout_layout, container, false);
+                    //TODO: Implementare la pagina di LOGOUT;
                     break;
                 default:
                     rootView = inflater.inflate(R.layout.loading_layout, container, false);

@@ -77,6 +77,7 @@ public class Console extends AppCompatActivity implements View.OnClickListener{
         switch (id)
         {
             case R.id.Left_button:
+                //TODO: implementare la scrittura dei dati su derver, e lettura per correzzioni, test joystick,
                 break;
             case R.id.Right_button:
                 break;
