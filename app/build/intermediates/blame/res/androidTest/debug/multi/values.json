@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "outputFile": "H:\\media\\tommy\\tom\\Workspace\\Project Game\\PewPew\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,31 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "/root/.android/build-cache/68f79926d537921994cd1317912e3bfc26c1fc7f/output/res/values/values.xml",
+                    "file": "H:\\root\\.android\\build-cache\\68f79926d537921994cd1317912e3bfc26c1fc7f\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "H:\\davide\\PewPew\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\Stefano\\.android\\build-cache\\fde494ea6e927b0d26b13a1cb5f40d5ec124f6d9\\output\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

@@ -17,4 +17,18 @@ public class Player {
         this.score = 0;
         this.life = 100;
     }
+
+    public int getX(){
+        return x;
+    }
+
+    public int getY(){
+        return y;
+    }
+
+
+
+
+
+
 }

@@ -1,10 +1,18 @@
 [
     {
-        "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
-        "source": "/root/.android/build-cache/c9b33055b5fc9bb8b8f1757aad02caa912f3832e/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+        "merged": "H:\\media\\tommy\\tom\\Workspace\\Project Game\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "H:\\root\\.android\\build-cache\\c9b33055b5fc9bb8b8f1757aad02caa912f3832e\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
-        "source": "/root/.android/build-cache/c9b33055b5fc9bb8b8f1757aad02caa912f3832e/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+        "merged": "H:\\davide\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Stefano\\.android\\build-cache\\339f0bcadbb738fa75ece08c59cc098b65cd68f4\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "H:\\davide\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Stefano\\.android\\build-cache\\339f0bcadbb738fa75ece08c59cc098b65cd68f4\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "H:\\media\\tommy\\tom\\Workspace\\Project Game\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "H:\\root\\.android\\build-cache\\c9b33055b5fc9bb8b8f1757aad02caa912f3832e\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     }
 ]

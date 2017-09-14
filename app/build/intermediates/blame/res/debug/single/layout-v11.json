@@ -1,26 +1,50 @@
 [
     {
-        "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
-        "source": "/root/.android/build-cache/5a0123da98c9bae5b23c37284998c37acacfb001/output/res/layout-v11/notification_media_action.xml"
+        "merged": "H:\\davide\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Stefano\\.android\\build-cache\\dfb2e02f1feb1e1c78d4fa2a18d800ac596f0882\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
-        "source": "/root/.android/build-cache/5a0123da98c9bae5b23c37284998c37acacfb001/output/res/layout-v11/notification_template_big_media_narrow.xml"
+        "merged": "H:\\media\\tommy\\tom\\Workspace\\Project Game\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "H:\\root\\.android\\build-cache\\5a0123da98c9bae5b23c37284998c37acacfb001\\output\\res\\layout-v11\\notification_template_big_media.xml"
     },
     {
-        "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
-        "source": "/root/.android/build-cache/5a0123da98c9bae5b23c37284998c37acacfb001/output/res/layout-v11/notification_template_big_media_custom.xml"
+        "merged": "H:\\davide\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Stefano\\.android\\build-cache\\dfb2e02f1feb1e1c78d4fa2a18d800ac596f0882\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
-        "source": "/root/.android/build-cache/5a0123da98c9bae5b23c37284998c37acacfb001/output/res/layout-v11/notification_media_cancel_action.xml"
+        "merged": "H:\\media\\tommy\\tom\\Workspace\\Project Game\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "H:\\root\\.android\\build-cache\\5a0123da98c9bae5b23c37284998c37acacfb001\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
-        "source": "/root/.android/build-cache/5a0123da98c9bae5b23c37284998c37acacfb001/output/res/layout-v11/notification_template_big_media.xml"
+        "merged": "H:\\media\\tommy\\tom\\Workspace\\Project Game\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "H:\\root\\.android\\build-cache\\5a0123da98c9bae5b23c37284998c37acacfb001\\output\\res\\layout-v11\\notification_media_action.xml"
     },
     {
-        "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
-        "source": "/root/.android/build-cache/5a0123da98c9bae5b23c37284998c37acacfb001/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+        "merged": "H:\\media\\tommy\\tom\\Workspace\\Project Game\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "H:\\root\\.android\\build-cache\\5a0123da98c9bae5b23c37284998c37acacfb001\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "H:\\davide\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Stefano\\.android\\build-cache\\dfb2e02f1feb1e1c78d4fa2a18d800ac596f0882\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "H:\\media\\tommy\\tom\\Workspace\\Project Game\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "H:\\root\\.android\\build-cache\\5a0123da98c9bae5b23c37284998c37acacfb001\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "H:\\davide\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Stefano\\.android\\build-cache\\dfb2e02f1feb1e1c78d4fa2a18d800ac596f0882\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "H:\\davide\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Stefano\\.android\\build-cache\\dfb2e02f1feb1e1c78d4fa2a18d800ac596f0882\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "H:\\media\\tommy\\tom\\Workspace\\Project Game\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "H:\\root\\.android\\build-cache\\5a0123da98c9bae5b23c37284998c37acacfb001\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "H:\\davide\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Stefano\\.android\\build-cache\\dfb2e02f1feb1e1c78d4fa2a18d800ac596f0882\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
     }
 ]

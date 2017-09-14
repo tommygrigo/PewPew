@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/animator-v21/design_appbar_state_list_animator.xml",
-        "source": "/root/.android/build-cache/c9b33055b5fc9bb8b8f1757aad02caa912f3832e/output/res/animator-v21/design_appbar_state_list_animator.xml"
+        "merged": "H:\\davide\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\animator-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\Stefano\\.android\\build-cache\\339f0bcadbb738fa75ece08c59cc098b65cd68f4\\output\\res\\animator-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "H:\\media\\tommy\\tom\\Workspace\\Project Game\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\animator-v21\\design_appbar_state_list_animator.xml",
+        "source": "H:\\root\\.android\\build-cache\\c9b33055b5fc9bb8b8f1757aad02caa912f3832e\\output\\res\\animator-v21\\design_appbar_state_list_animator.xml"
     }
 ]

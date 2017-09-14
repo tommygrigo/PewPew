@@ -74,34 +74,69 @@ public class Console extends AppCompatActivity implements View.OnClickListener{
     @Override
     public void onClick(View view) {
         int id = view.getId();
-        switch (id)
-        {
+        final int[] xserver = new int[1];
+        final int[] yserver = new int[1];
+        playerRef.addValueEventListener(new ValueEventListener() {
+            @Override
+            public void onDataChange(DataSnapshot dataSnapshot) {
+                xserver[0] = (int) dataSnapshot.child(playerRef + "x").getValue();
+                yserver[0] = (int) dataSnapshot.child(playerRef + "y").getValue();
+
+            }
+
+            @Override
+            public void onCancelled(DatabaseError databaseError) {
+
+            }
+        });
+
+
+        switch (id) {
             case R.id.Left_button:
-                //TODO: implementare la scrittura dei dati su derver, e lettura per correzzioni, test joystick,
+                myPlayer.x = xserver[0] - 1;
                 break;
+
             case R.id.Right_button:
+                myPlayer.x = xserver[0] + 1;
                 break;
+
             case R.id.Up_button:
+                myPlayer.y = yserver[0] - 1;
                 break;
+
             case R.id.Down_button:
+                myPlayer.y = xserver[0] + 1;
                 break;
+
             default:
                 break;
         }
 
+        updatePlayer();
+
     }
+
+        public void updatePlayer()
+        {
+            Map<String,Object> list = new HashMap<String,Object>();
+            list.put(nikname,myPlayer);
+            rootRef.child("Players").updateChildren(list);
+        }
+
+
+
+
+
+
+
+
+
+
+
 }
 
 
+//TODO: implementare la scrittura dei dati su derver, e lettura per correzzioni, test joystick,
 
 
 
-
-/*  if(Left.isPressed())
-            //sinistra
-        if(Right.isPressed())
-            //destra
-        if(Up.isPressed())
-            //SU
-        if(Down.isPressed())
-            //giù*/
