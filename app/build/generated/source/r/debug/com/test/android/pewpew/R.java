@@ -3245,12 +3245,12 @@ containing a value of this type.
     }
     public static final class id {
         public static final int Down_button=0x7f0d008e;
-        public static final int EnemyNikname=0x7f0d00b6;
+        public static final int EnemyNikname=0x7f0d00b5;
         public static final int Left_button=0x7f0d008f;
         public static final int Right_button=0x7f0d008d;
-        public static final int Start1v1=0x7f0d00b4;
+        public static final int Start1v1=0x7f0d00b6;
         public static final int Up_button=0x7f0d008c;
-        public static final int Your_nickname=0x7f0d00b5;
+        public static final int Your_nickname=0x7f0d00b4;
         public static final int action0=0x7f0d00a0;
         public static final int action_bar=0x7f0d0073;
         public static final int action_bar_activity_content=0x7f0d0000;
@@ -3283,13 +3283,13 @@ containing a value of this type.
         public static final int basic=0x7f0d0016;
         public static final int beginning=0x7f0d0040;
         public static final int bottom=0x7f0d002f;
-        public static final int button2=0x7f0d00b8;
         public static final int buttonPanel=0x7f0d005a;
         public static final int cancel_action=0x7f0d00a1;
         public static final int center=0x7f0d0030;
         public static final int center_horizontal=0x7f0d0031;
         public static final int center_vertical=0x7f0d0032;
         public static final int chains=0x7f0d0017;
+        public static final int change_nikname=0x7f0d00b8;
         public static final int checkbox=0x7f0d006a;
         public static final int chronometer=0x7f0d00a9;
         public static final int clip_horizontal=0x7f0d003b;
@@ -3308,7 +3308,7 @@ containing a value of this type.
         public static final int design_menu_item_text=0x7f0d0098;
         public static final int design_navigation_view=0x7f0d0097;
         public static final int disableHome=0x7f0d001c;
-        public static final int editText=0x7f0d00b7;
+        public static final int edit_nikname=0x7f0d00b7;
         public static final int edit_query=0x7f0d0075;
         public static final int end=0x7f0d0033;
         public static final int end_padder=0x7f0d00b3;

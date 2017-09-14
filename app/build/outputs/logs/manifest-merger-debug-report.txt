@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Workspace\Project Game\PewPew\app\src\main\AndroidManifest.xml:2:1-29:12
+ADDED from D:\Workspace\Project Game\PewPew\app\src\main\AndroidManifest.xml:2:1-30:12
 	package
 		ADDED from D:\Workspace\Project Game\PewPew\app\src\main\AndroidManifest.xml:3:5-38
 		INJECTED from D:\Workspace\Project Game\PewPew\app\src\main\AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from D:\Workspace\Project Game\PewPew\app\src\main\AndroidManifest.xml:2:1
 		INJECTED from D:\Workspace\Project Game\PewPew\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Workspace\Project Game\PewPew\app\src\main\AndroidManifest.xml
 application
-ADDED from D:\Workspace\Project Game\PewPew\app\src\main\AndroidManifest.xml:5:5-27:19
+ADDED from D:\Workspace\Project Game\PewPew\app\src\main\AndroidManifest.xml:5:5-28:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Tommy\.android\build-cache\558af2d85aa7c5a4123cc1d51e9854ab612c0299\output\AndroidManifest.xml:9:5-20
 MERGED from [com.google.firebase:firebase-core:11.0.2] C:\Users\Tommy\.android\build-cache\a753b7290e0d3ba331fd41d40224b38e04dc278c\output\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-analytics:11.0.2] C:\Users\Tommy\.android\build-cache\38e4dc096879183add7b56819c7b14963d87db1b\output\AndroidManifest.xml:24:5-34:19
@@ -72,11 +72,13 @@ ADDED from D:\Workspace\Project Game\PewPew\app\src\main\AndroidManifest.xml:19:
 	android:name
 		ADDED from D:\Workspace\Project Game\PewPew\app\src\main\AndroidManifest.xml:20:13-41
 activity#com.test.android.pewpew.Console
-ADDED from D:\Workspace\Project Game\PewPew\app\src\main\AndroidManifest.xml:23:9-26:59
+ADDED from D:\Workspace\Project Game\PewPew\app\src\main\AndroidManifest.xml:23:9-27:59
+	android:screenOrientation
+		ADDED from D:\Workspace\Project Game\PewPew\app\src\main\AndroidManifest.xml:26:13-50
 	android:label
 		ADDED from D:\Workspace\Project Game\PewPew\app\src\main\AndroidManifest.xml:25:13-59
 	android:theme
-		ADDED from D:\Workspace\Project Game\PewPew\app\src\main\AndroidManifest.xml:26:13-56
+		ADDED from D:\Workspace\Project Game\PewPew\app\src\main\AndroidManifest.xml:27:13-56
 	android:name
 		ADDED from D:\Workspace\Project Game\PewPew\app\src\main\AndroidManifest.xml:24:13-36
 uses-sdk

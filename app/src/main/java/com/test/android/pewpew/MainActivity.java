@@ -1,5 +1,6 @@
 package com.test.android.pewpew;
 
+import android.content.Intent;
 import android.support.design.widget.TabLayout;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -17,7 +18,10 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 
+import android.widget.Button;
+import android.widget.EditText;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
@@ -51,11 +55,11 @@ public class MainActivity extends AppCompatActivity {
 
     static FirebaseUser user =  FirebaseAuth.getInstance().getCurrentUser();
     public static DatabaseReference rootRef = FirebaseDatabase.getInstance().getReference();
-    DatabaseReference userFolderRef = rootRef.child("Users");
+    static DatabaseReference userFolderRef = rootRef.child("Users");
 
+    static String nikname;
 
-
-    User myUser;
+    static User myUser;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -77,9 +81,7 @@ public class MainActivity extends AppCompatActivity {
 
         myUser = new User(user.getDisplayName(),user.getEmail());
 
-        Map<String,Object> list = new HashMap<String,Object>();
-        list.put(user.getUid(),myUser);
-        userFolderRef.updateChildren(list);
+
 
         /*FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
@@ -90,8 +92,30 @@ public class MainActivity extends AppCompatActivity {
             }
         });*/
 
+        rootRef.addListenerForSingleValueEvent(new ValueEventListener() {
+            @Override
+            public void onDataChange(DataSnapshot dataSnapshot) {
+                nikname = dataSnapshot.child("Users/"+user.getUid()+"/nikname").getValue(String.class);
+                //Toast.makeText(MainActivity.this, nikname, Toast.LENGTH_SHORT).show();
+                myUser.nikname = nikname;
+                updateUser();
+            }
+
+            @Override
+            public void onCancelled(DatabaseError databaseError) {
+
+            }
+        });
+
         
 
+    }
+
+    public static void updateUser()
+    {
+        Map<String,Object> list = new HashMap<String,Object>();
+        list.put(user.getUid(),myUser);
+        userFolderRef.updateChildren(list);
     }
 
 
@@ -153,13 +177,33 @@ public class MainActivity extends AppCompatActivity {
             {
                 case 0:
                     rootView = inflater.inflate(R.layout.player_layout, container, false);
+                    Button start = (Button) rootView.findViewById(R.id.Start1v1);
+                    start.setOnClickListener(new View.OnClickListener() {
+                        @Override
+                        public void onClick(View view) {
+                            Intent intent = new Intent(getContext(),Console.class);
+                            startActivity(intent);
+                        }
+                    });
                     break;
                 case 1:
                     rootView = inflater.inflate(R.layout.cpu_layout, container, false);
                     break;
                 case 2:
                     rootView = inflater.inflate(R.layout.settings_layout, container, false);
-
+                    final EditText textEdit = (EditText) rootView.findViewById(R.id.edit_nikname);
+                    textEdit.setText(nikname);
+                    Button button = (Button)rootView.findViewById(R.id.change_nikname);
+                    button.setOnClickListener(new View.OnClickListener() {
+                        @Override
+                        public void onClick(View view) {
+                          String newNikname = textEdit.getText().toString();
+                            myUser.nikname = newNikname;
+                            updateUser();
+                            nikname = newNikname;
+                            textEdit.setText(nikname);
+                        }
+                    });
                     break;
                 case 3:
                     rootView = inflater.inflate(R.layout.logout_layout, container, false);
@@ -168,32 +212,7 @@ public class MainActivity extends AppCompatActivity {
                     rootView = inflater.inflate(R.layout.loading_layout, container, false);
                     break;
             }
-            /*if(getArguments().getInt(ARG_SECTION_NUMBER)== 0)
-                rootView = inflater.inflate(R.layout.test_layout, container, false);
-            else {
-                rootView = inflater.inflate(R.layout.fragment_main, container, false);
-                final TextView textView = (TextView) rootView.findViewById(R.id.section_label);
-                if(getArguments().getInt(ARG_SECTION_NUMBER)== 3) {
 
-                    rootRef.addListenerForSingleValueEvent(new ValueEventListener() {
-                        @Override
-                        public void onDataChange(DataSnapshot dataSnapshot) {
-                            String nikname = dataSnapshot.child("Users/"+user.getUid()+"/nikname").getValue(String.class);
-                            textView.setText(nikname);
-                        }
-
-                        @Override
-                        public void onCancelled(DatabaseError databaseError) {
-
-                        }
-                    });
-
-
-
-                }
-                else
-                    textView.setText(getString(R.string.section_format, getArguments().getInt(ARG_SECTION_NUMBER)));
-            }*/
             return rootView;
         }
 

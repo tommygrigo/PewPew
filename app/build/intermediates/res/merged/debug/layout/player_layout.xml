@@ -4,15 +4,6 @@
     android:layout_height="match_parent"
     android:orientation="horizontal">
 
-    <Button
-        android:id="@+id/Start1v1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="98dp"
-        android:text="Start game" />
-
     <TextView
         android:id="@+id/Your_nickname"
         android:layout_width="wrap_content"
@@ -33,5 +24,14 @@
         android:text="Other Player Nikname"
         android:layout_below="@+id/Your_nickname"
         android:layout_alignStart="@+id/Your_nickname" />
+
+    <Button
+        android:id="@+id/Start1v1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="98dp"
+        android:text="Start game" />
 
 </RelativeLayout>
