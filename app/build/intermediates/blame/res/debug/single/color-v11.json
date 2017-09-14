@@ -1,42 +1,10 @@
 [
     {
-        "merged": "D:\\Workspace\\Project Game\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "C:\\Users\\Tommy\\.android\\build-cache\\f7af580e653663e8dfdf01e63c55a60cf2f74dc9\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+        "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/root/.android/build-cache/5a0123da98c9bae5b23c37284998c37acacfb001/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Tommy\\Dropbox\\Poject Game\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "C:\\Users\\Tommy\\.android\\build-cache\\f7af580e653663e8dfdf01e63c55a60cf2f74dc9\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\Tommy\\Dropbox\\Poject Game\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "C:\\Users\\Tommy\\.android\\build-cache\\f7af580e653663e8dfdf01e63c55a60cf2f74dc9\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stefano\\Desktop\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "C:\\Users\\Stefano\\.android\\build-cache\\dfb2e02f1feb1e1c78d4fa2a18d800ac596f0882\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
-    },
-    {
-        "merged": "D:\\PewPew-20170914T085632Z-001\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "C:\\Users\\Tommy\\.android\\build-cache\\f7af580e653663e8dfdf01e63c55a60cf2f74dc9\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
-    },
-    {
-        "merged": "D:\\Workspace\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "C:\\Users\\Tommy\\.android\\build-cache\\f7af580e653663e8dfdf01e63c55a60cf2f74dc9\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stefano\\Desktop\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "C:\\Users\\Stefano\\.android\\build-cache\\dfb2e02f1feb1e1c78d4fa2a18d800ac596f0882\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
-    },
-    {
-        "merged": "D:\\PewPew-20170914T085632Z-001\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "C:\\Users\\Tommy\\.android\\build-cache\\f7af580e653663e8dfdf01e63c55a60cf2f74dc9\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
-    },
-    {
-        "merged": "D:\\Workspace\\Project Game\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "C:\\Users\\Tommy\\.android\\build-cache\\f7af580e653663e8dfdf01e63c55a60cf2f74dc9\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
-    },
-    {
-        "merged": "D:\\Workspace\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "C:\\Users\\Tommy\\.android\\build-cache\\f7af580e653663e8dfdf01e63c55a60cf2f74dc9\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+        "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/root/.android/build-cache/5a0123da98c9bae5b23c37284998c37acacfb001/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     }
 ]

@@ -1,42 +1,10 @@
 [
     {
-        "merged": "D:\\PewPew-20170914T085632Z-001\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
-        "source": "C:\\Users\\Tommy\\.android\\build-cache\\3002022e35ae601e7c188251cfdbec77ca918e18\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+        "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/root/.android/build-cache/c9b33055b5fc9bb8b8f1757aad02caa912f3832e/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
     },
     {
-        "merged": "D:\\Workspace\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
-        "source": "C:\\Users\\Tommy\\.android\\build-cache\\3002022e35ae601e7c188251cfdbec77ca918e18\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
-    },
-    {
-        "merged": "D:\\Workspace\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
-        "source": "C:\\Users\\Tommy\\.android\\build-cache\\3002022e35ae601e7c188251cfdbec77ca918e18\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
-    },
-    {
-        "merged": "C:\\Users\\Tommy\\Dropbox\\Poject Game\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
-        "source": "C:\\Users\\Tommy\\.android\\build-cache\\3002022e35ae601e7c188251cfdbec77ca918e18\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
-    },
-    {
-        "merged": "D:\\Workspace\\Project Game\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
-        "source": "C:\\Users\\Tommy\\.android\\build-cache\\3002022e35ae601e7c188251cfdbec77ca918e18\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stefano\\Desktop\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
-        "source": "C:\\Users\\Stefano\\.android\\build-cache\\339f0bcadbb738fa75ece08c59cc098b65cd68f4\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
-    },
-    {
-        "merged": "D:\\PewPew-20170914T085632Z-001\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
-        "source": "C:\\Users\\Tommy\\.android\\build-cache\\3002022e35ae601e7c188251cfdbec77ca918e18\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
-    },
-    {
-        "merged": "C:\\Users\\Tommy\\Dropbox\\Poject Game\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
-        "source": "C:\\Users\\Tommy\\.android\\build-cache\\3002022e35ae601e7c188251cfdbec77ca918e18\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
-    },
-    {
-        "merged": "D:\\Workspace\\Project Game\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
-        "source": "C:\\Users\\Tommy\\.android\\build-cache\\3002022e35ae601e7c188251cfdbec77ca918e18\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stefano\\Desktop\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
-        "source": "C:\\Users\\Stefano\\.android\\build-cache\\339f0bcadbb738fa75ece08c59cc098b65cd68f4\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+        "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/root/.android/build-cache/c9b33055b5fc9bb8b8f1757aad02caa912f3832e/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
     }
 ]

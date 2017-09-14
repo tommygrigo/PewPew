@@ -2,265 +2,265 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="C:\Users\Stefano\.android\build-cache\7f5c873ab5f107d298036ae50cc1c1a017ec8b58\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="2737331564e0084fc0eb30ba500564a6dbe5e98f">
-        <dex dex="C:\Users\Stefano\Desktop\PewPew\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e283164d54b1b3d24cac1d57dfdbb961eb7e109\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Stefano\Desktop\PewPew\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="1015974146b8973edd92080bda738cb1b5e0c6dd">
-        <dex dex="C:\Users\Stefano\Desktop\PewPew\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a05ac0fefc0e4235a4775ee8d6b492c94e6a34e6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Stefano\.android\build-cache\e97a20493f58e7d967feae939e758b8dd841dd8d\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
-        <dex dex="C:\Users\Stefano\Desktop\PewPew\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7a81ad17af0175f5a88622a3624a73ca7db9b821\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Stefano\.android\build-cache\373205092980902ca8882066328c538d1b1e52dd\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="2c1d9fbe7d2f686b3dcdbc3f63a983a211401ca3">
-        <dex dex="C:\Users\Stefano\Desktop\PewPew\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e08a86eeb92b33ce4f2623c8e565d0e8c96c24bf\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Stefano\.android\build-cache\3f35e8e52978f916e504dcbea6db10e72bf26093\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="4802b21cc23549f7eba5edb802241091ad998b35">
-        <dex dex="C:\Users\Stefano\Desktop\PewPew\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_27af334147319892b8127f32e53e2fb4d003b508\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Stefano\.android\build-cache\2e7d2e659c70eca9d8decc957a1a057bc4ce0a6e\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
-        <dex dex="C:\Users\Stefano\Desktop\PewPew\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1d8effcebe5d3ad757674e9dd3a42a2a410fd39f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Stefano\.android\build-cache\b88a3abed9a75b07e0929c54928a38b214d73abf\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
-        <dex dex="C:\Users\Stefano\Desktop\PewPew\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da18554a5d717e4db4e5a8aa81f78c423624243b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Stefano\.android\build-cache\dfb2e02f1feb1e1c78d4fa2a18d800ac596f0882\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
-        <dex dex="C:\Users\Stefano\Desktop\PewPew\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e2efdb01304cf2ead62b167af7a21b7e5252e535\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Stefano\.android\build-cache\392129815016e11482d67b9daec3080be402673e\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
-        <dex dex="C:\Users\Stefano\Desktop\PewPew\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_90ef8c9a4544d64af903b2862cca294d0a812bbe\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Stefano\.android\build-cache\5b331352e9accb060e15014967261229e7d0f9f4\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="fc5624185d414a0f572bfb3df7d841ceb335aef9">
-        <dex dex="C:\Users\Stefano\Desktop\PewPew\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f967d8a857f53ea586f344e2d6646a42e780bf5a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Stefano\.android\build-cache\e57dcd390b117b6f14ffd564d83fd0d4c209c46f\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
-        <dex dex="C:\Users\Stefano\Desktop\PewPew\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_03eaa9c7e3bfb3f8608e2ebc973c7d6a8c82464a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Stefano\.android\build-cache\339f0bcadbb738fa75ece08c59cc098b65cd68f4\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
-        <dex dex="C:\Users\Stefano\Desktop\PewPew\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_042bba955027fd4a00b782a3b51649aa9628125a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Stefano\.android\build-cache\a8c23cd9dad4cbe873d3c3419be28d8dddb4c7b4\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/root/.android/build-cache/2888eebbdebef9f4c22e3ca0a45950197bb4962b/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="26.0.0"
         sha1="a3d07dfddc7c3c7547fb953847589d586f1e2077">
-        <dex dex="C:\Users\Stefano\Desktop\PewPew\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1c33772f5a6f9dfd644a2442a30bf63fd26039d0\classes.dex" />
+        <dex dex="/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/pre-dexed/debug/classes_6a39710d3c3cfdfd58fe01d6a3a22ad683aa9a22.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\Stefano\.android\build-cache\c45410595742ecb1ab67af3cd302ca85f8d3a062\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\Stefano\Desktop\PewPew\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bd536701a562d342cff986ef3762a91ec42ffa58\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Stefano\.android\build-cache\fef03b0c9ea4f89356c104c85de3dd0674bbb6c3\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
-        <dex dex="C:\Users\Stefano\Desktop\PewPew\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8523e7b96f0b2a390c89bc8321704328486ab0e8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Stefano\.android\build-cache\bfcf86e6065cf86f03d01d102513f23c3781557d\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="952944218ecedea1554a513dec0c14d570642843">
-        <dex dex="C:\Users\Stefano\Desktop\PewPew\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bc075b18eba27c1f5c7ccd2ebc3da3110cd04df9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Stefano\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="C:\Users\Stefano\Desktop\PewPew\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_e71be6b4a474b9f60f39bc248b9b3eb3f3581551\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Stefano\.android\build-cache\8c7cde3ad830e1e2ad8d12889fa5dfbac16d74a3\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
-        <dex dex="C:\Users\Stefano\Desktop\PewPew\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1311e8b195fd89b0fa577c125d6d7108b2cf8a43\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Stefano\.android\build-cache\01b4f67ed5b82f22c43a98b868cd84d87eecb16f\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
-        <dex dex="C:\Users\Stefano\Desktop\PewPew\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3f7d7d4f806d30528a8f816257020f9a39e8c309\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Stefano\.android\build-cache\38cbe33a7e57266953c5564fb279cfafc4ec8c39\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="C:\Users\Stefano\Desktop\PewPew\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0d51319b51035038de6309cb8c7edea9bc3c8f74\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Stefano\.android\build-cache\6c4e691616444e494c4ac0d3da10588ac5f1b774\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="9935891f23923f39d002087085d9696568a9f657">
-        <dex dex="C:\Users\Stefano\Desktop\PewPew\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d1e9efbf12d740b9fc306db7c6dc2214665cb51a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Stefano\.android\build-cache\b8898723f7573fa79d313bc4d7ece23853654479\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="4262bcd49b19d558c241bf8c68470fcc6fa1ac84">
-        <dex dex="C:\Users\Stefano\Desktop\PewPew\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_95c3a492e8851cafd3201451f7a1591ea889835d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Stefano\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="023ee503b631f69511e335a061ea008f8da60f40">
-        <dex dex="C:\Users\Stefano\Desktop\PewPew\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_ab4122b0bbe4a1c4bdd7dfce5c69c15e57e58c95\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Stefano\.android\build-cache\b925759c5d0de6b262da762ca53e23a06aac2e6c\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="3560fc891bbecd8982acbace15ccead59c3fedd1">
-        <dex dex="C:\Users\Stefano\Desktop\PewPew\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ab8f7ed6510654e7f8650d8f4bc0846e775de30a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Stefano\.android\build-cache\a3e6509988cda08755e3ab7bbddd1e9e280d057c\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
-        <dex dex="C:\Users\Stefano\Desktop\PewPew\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_981b9187a354fa2749c323d2f6edd19fe080449a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Stefano\.android\build-cache\d7a1afe96006974daff2e256611490ce7da6e75b\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
-        <dex dex="C:\Users\Stefano\Desktop\PewPew\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8d4a37c3ba0db15ebdee108b31ea2accd64c72ca\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Stefano\.android\build-cache\b6378fa9d00bf7503249cb94e168a13fa39e18e4\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="9a6350134db98fb39e212ddca5f0bad9280e8f3f">
-        <dex dex="C:\Users\Stefano\Desktop\PewPew\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_651641943192795602849fd8987e2f1a46079b51\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Stefano\.android\build-cache\493e7a17e2f986cd2392850e1dd39ae24de16b45\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/root/.android/build-cache/0930d7c4c7e40f4d817b73d0e87ab46f2e22c416/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="26.0.0"
         sha1="9e8c74e789b51b9da4070aeaed71bae36c3d244f">
-        <dex dex="C:\Users\Stefano\Desktop\PewPew\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8a7f4758bbc6fb9f93859d14afe304dc4c5f29b0\classes.dex" />
+        <dex dex="/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/pre-dexed/debug/classes_5faff8a4637724fbaa237fbd6bf22bb41275c8c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/5a0123da98c9bae5b23c37284998c37acacfb001/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/pre-dexed/debug/classes_3ba9ae63dac98501d6ffa47648c319d4f4d9df5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/b25da0f5a4bf516320d8a212336b7ba0bdc86be3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/pre-dexed/debug/classes_a7415d0c57dbef4cc6dce8a245a7dc8f3c7b776e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/b03ee3340d7b0de47a581249d530c41725a28c08/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4802b21cc23549f7eba5edb802241091ad998b35">
+        <dex dex="/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/pre-dexed/debug/classes_49c9212365667ec4f27f10e30da426c311bae0c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/bd5430eaa55dd5fae13912e0bda030c0d5c76493/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/pre-dexed/debug/classes_19622ae4c63220068cdba72f0c7b504900ff7afb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/cc07f7495f9dc7cbb3ff944561865396f029c4f6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/pre-dexed/debug/classes_f2a1caa0b2ba8988a93ba42b47d6b42b41151680.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Stefano\Desktop\PewPew\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.0"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="C:\Users\Stefano\Desktop\PewPew\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ddb29a9319a1363da60ccd547f8a58b3225d4351\classes.dex" />
+        <dex dex="/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_974059d8435661401c937b32f30b82ceb8e00409/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/53794725caad1951c6261c6abccccecf64e988a3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/pre-dexed/debug/classes_c33e6027e21f22824b96b38a9010eb6c2bc55de2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="614615326539b075f93ad086dda89af4f116b84b">
+        <dex dex="/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3321743aaba97c51da8a8b2b52b6708f8c336d7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/84354546b29400700484b9049e9c136a4bf1dad5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/pre-dexed/debug/classes_53b836b4ddaf88d179de7662035401d75a78d3c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/b705cfbf91af931219359712fc7c6b616f610672/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/pre-dexed/debug/classes_515a40b7d20c2b851329c8ed85ace8200622b139.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/b659aa502e6e5cbd8dfc15318db9d2002cc106df/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/pre-dexed/debug/classes_796c8c356eacf1d89866cb80cc798d355e9fb2d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/f144a5ce75d16f4a82ee379c97f0c49971fc258c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3560fc891bbecd8982acbace15ccead59c3fedd1">
+        <dex dex="/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/pre-dexed/debug/classes_b3c69eb17feb173eae77d870c03138a5071d2f83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/52db44f9597b0bef1079d2db259d0ec234b044b0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fc5624185d414a0f572bfb3df7d841ceb335aef9">
+        <dex dex="/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/pre-dexed/debug/classes_5d2f073756efabad5d9b7d64f3e57645e372839f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/29cff7e975998e84b359838ab3b313214f3c5d90/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2c1d9fbe7d2f686b3dcdbc3f63a983a211401ca3">
+        <dex dex="/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/pre-dexed/debug/classes_b4cd06a369f2df560e9abfbcb7b8bfecc545b5d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/ce3d2b6557ebb79ed4891d69a613635e20f233d7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/pre-dexed/debug/classes_2a6403f3a6b78d0dfa8629ada59accf7fb36e6ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/ef05c7e40cfe0acbe8288fe414181cc5e2174148/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/pre-dexed/debug/classes_8fd6649264e7b1ab830bbe8d4528e9673727f774.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/dd79146e7bd2c03d541d4308c5a97768cd1a3043/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2737331564e0084fc0eb30ba500564a6dbe5e98f">
+        <dex dex="/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/pre-dexed/debug/classes_ac5e4bf050f033128513ffc3eade9f29fb37f771.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_f71403aa6b38f93fc160b625a6fee14f3cb04465.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/c9b33055b5fc9bb8b8f1757aad02caa912f3832e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/pre-dexed/debug/classes_0d8171321678517f700c0f5928d5ad0f965fc472.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/03a6efdd404f555f1aefd245e6af5e0df05e3c18/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/pre-dexed/debug/classes_4cbd1419c27078c3ab47bd6e47f4331d9e88e987.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_eee8a3c6377b80e3461588cdc22b6e7ec7a8403c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/3dd66af523e32da8f50e4056e0d045b68ee7c846/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/pre-dexed/debug/classes_91b72c15adce93cdbdc48f3c59c218b53d2149ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/36c59a05880fa7fe2bd66fc043c020711cb19845/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/pre-dexed/debug/classes_2f0e311b10bba9cf59db2ebd3632fc5d17e51c95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/0bb14c1b0d9024a040b36ebb36639d16be4ac670/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/pre-dexed/debug/classes_9f2067cdaa2277d3d329fc789a766c23ab91a3dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/627c02cbe31b7b01e158ad1fc4dc0e472e88c61a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/pre-dexed/debug/classes_f2798bf87bdeacbb13022e5f42d13530d6cffd8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/f190de7493adaf12f8ad32fb820346496170f9e8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9a6350134db98fb39e212ddca5f0bad9280e8f3f">
+        <dex dex="/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/pre-dexed/debug/classes_fbb8f831840fd1773ef8388bc84e583e5305ce72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/84793cf4fc8a183f60ca554e46e9a852fe9b1604/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4262bcd49b19d558c241bf8c68470fcc6fa1ac84">
+        <dex dex="/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/pre-dexed/debug/classes_011976338d0e73cf743000a14fa896de640f8603.jar" />
     </item>
 
 </items>

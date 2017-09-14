@@ -1,22 +1,6 @@
 [
     {
-        "merged": "C:\\Users\\Tommy\\Dropbox\\Poject Game\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
-        "source": "C:\\Users\\Tommy\\Dropbox\\Poject Game\\PewPew\\app\\src\\main\\res\\menu\\menu_main.xml"
-    },
-    {
-        "merged": "D:\\Workspace\\Project Game\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
-        "source": "D:\\Workspace\\Project Game\\PewPew\\app\\src\\main\\res\\menu\\menu_main.xml"
-    },
-    {
-        "merged": "D:\\Workspace\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
-        "source": "D:\\Workspace\\PewPew\\app\\src\\main\\res\\menu\\menu_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stefano\\Desktop\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
-        "source": "C:\\Users\\Stefano\\Desktop\\PewPew\\app\\src\\main\\res\\menu\\menu_main.xml"
-    },
-    {
-        "merged": "D:\\PewPew-20170914T085632Z-001\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
-        "source": "D:\\PewPew-20170914T085632Z-001\\PewPew\\app\\src\\main\\res\\menu\\menu_main.xml"
+        "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/media/tommy/tom/Workspace/Project Game/PewPew/app/src/main/res/menu/menu_main.xml"
     }
 ]

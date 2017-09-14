@@ -1,4 +1,4 @@
-#Thu Sep 14 10:49:59 CEST 2017
-base.0=D\:\\Workspace\\Project Game\\PewPew\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Thu Sep 14 14:49:30 CEST 2017
+base.0=/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.0=D\:\\Workspace\\Project Game\\PewPew\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.0=/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
