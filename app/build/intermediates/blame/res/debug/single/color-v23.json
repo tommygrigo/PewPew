@@ -1,46 +1,46 @@
 [
     {
-        "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
-        "source": "/root/.android/build-cache/5a0123da98c9bae5b23c37284998c37acacfb001/output/res/color-v23/abc_btn_colored_text_material.xml"
+        "merged": "H:\\davide\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Users\\Stefano\\.android\\build-cache\\dfb2e02f1feb1e1c78d4fa2a18d800ac596f0882\\output\\res\\color-v23\\abc_tint_default.xml"
     },
     {
-        "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
-        "source": "/root/.android/build-cache/5a0123da98c9bae5b23c37284998c37acacfb001/output/res/color-v23/abc_tint_spinner.xml"
+        "merged": "H:\\davide\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Stefano\\.android\\build-cache\\dfb2e02f1feb1e1c78d4fa2a18d800ac596f0882\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
-        "source": "/root/.android/build-cache/5a0123da98c9bae5b23c37284998c37acacfb001/output/res/color-v23/abc_tint_seek_thumb.xml"
+        "merged": "H:\\davide\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Stefano\\.android\\build-cache\\dfb2e02f1feb1e1c78d4fa2a18d800ac596f0882\\output\\res\\color-v23\\abc_tint_spinner.xml"
     },
     {
-        "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
-        "source": "/root/.android/build-cache/c9b33055b5fc9bb8b8f1757aad02caa912f3832e/output/res/color-v23/design_tint_password_toggle.xml"
+        "merged": "H:\\davide\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Stefano\\.android\\build-cache\\dfb2e02f1feb1e1c78d4fa2a18d800ac596f0882\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
-        "source": "/root/.android/build-cache/5a0123da98c9bae5b23c37284998c37acacfb001/output/res/color-v23/abc_tint_btn_checkable.xml"
+        "merged": "H:\\davide\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Stefano\\.android\\build-cache\\dfb2e02f1feb1e1c78d4fa2a18d800ac596f0882\\output\\res\\color-v23\\abc_tint_edittext.xml"
     },
     {
-        "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
-        "source": "/root/.android/build-cache/5a0123da98c9bae5b23c37284998c37acacfb001/output/res/color-v23/abc_tint_switch_thumb.xml"
+        "merged": "H:\\davide\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\Stefano\\.android\\build-cache\\339f0bcadbb738fa75ece08c59cc098b65cd68f4\\output\\res\\color-v23\\design_tint_password_toggle.xml"
     },
     {
-        "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
-        "source": "/root/.android/build-cache/5a0123da98c9bae5b23c37284998c37acacfb001/output/res/color-v23/abc_tint_default.xml"
+        "merged": "H:\\davide\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Stefano\\.android\\build-cache\\dfb2e02f1feb1e1c78d4fa2a18d800ac596f0882\\output\\res\\color-v23\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
-        "source": "/root/.android/build-cache/5a0123da98c9bae5b23c37284998c37acacfb001/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+        "merged": "H:\\davide\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\Stefano\\.android\\build-cache\\dfb2e02f1feb1e1c78d4fa2a18d800ac596f0882\\output\\res\\color-v23\\abc_color_highlight_material.xml"
     },
     {
-        "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
-        "source": "/root/.android/build-cache/5a0123da98c9bae5b23c37284998c37acacfb001/output/res/color-v23/abc_tint_edittext.xml"
+        "merged": "H:\\davide\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Stefano\\.android\\build-cache\\dfb2e02f1feb1e1c78d4fa2a18d800ac596f0882\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
-        "source": "/root/.android/build-cache/5a0123da98c9bae5b23c37284998c37acacfb001/output/res/color-v23/abc_tint_switch_track.xml"
+        "merged": "H:\\davide\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Stefano\\.android\\build-cache\\dfb2e02f1feb1e1c78d4fa2a18d800ac596f0882\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
-        "source": "/root/.android/build-cache/5a0123da98c9bae5b23c37284998c37acacfb001/output/res/color-v23/abc_color_highlight_material.xml"
+        "merged": "H:\\davide\\PewPew\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Stefano\\.android\\build-cache\\dfb2e02f1feb1e1c78d4fa2a18d800ac596f0882\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
     }
 ]

@@ -5,6 +5,7 @@ import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.view.SurfaceView;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
@@ -20,7 +21,9 @@ import com.google.firebase.database.ValueEventListener;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Console extends AppCompatActivity implements View.OnClickListener{
+
+
+public class Console extends AppCompatActivity implements /*View.OnClickListener,*/ Joystick.JoystickListener{
 
     Button left;
     Button right;
@@ -35,9 +38,10 @@ public class Console extends AppCompatActivity implements View.OnClickListener{
 
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        Joystick joystick = new Joystick(this);
+        setContentView(R.layout.activity_joystick);
 
-        setContentView(R.layout.content_console);
-
+       /*
         left = (Button) findViewById(R.id.Left_button);
         right = (Button) findViewById(R.id.Right_button);
         up = (Button) findViewById(R.id.Up_button);
@@ -47,8 +51,15 @@ public class Console extends AppCompatActivity implements View.OnClickListener{
         right.setOnClickListener(this);
         up.setOnClickListener(this);
         down.setOnClickListener(this);
+        */
 
         myPlayer = new Player();
+
+
+
+/*
+
+
 
         rootRef.addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
@@ -80,11 +91,11 @@ public class Console extends AppCompatActivity implements View.OnClickListener{
 
             }
         });
-
+*/
 
     }
 
-
+/*
     @Override
     public void onClick(View view) {
         int id = view.getId();
@@ -113,7 +124,7 @@ public class Console extends AppCompatActivity implements View.OnClickListener{
         updatePlayer();
 
     }
-
+*/
     public void updatePlayer() {
         Map<String, Object> list = new HashMap<String, Object>();
         list.put(nikname, myPlayer);
@@ -121,6 +132,10 @@ public class Console extends AppCompatActivity implements View.OnClickListener{
     }
 
 
+    @Override
+    public void onJoystickMoved(float xPercent, float yPercent, int source) {
+       // Log.d("Main Method", "X percent: " + xPercent +"Y percent: " + yPercent);
+    }
 }
 
 

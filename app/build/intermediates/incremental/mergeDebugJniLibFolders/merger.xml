@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/media/tommy/tom/Workspace/Project Game/PewPew/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/media/tommy/tom/Workspace/Project Game/PewPew/app/src/debug/jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="H:\davide\PewPew\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="H:\davide\PewPew\app\src\debug\jniLibs"/></dataSet></merger>
