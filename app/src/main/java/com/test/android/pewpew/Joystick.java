@@ -106,7 +106,9 @@ public class Joystick extends SurfaceView implements SurfaceHolder.Callback, Vie
             }
             else {
                 drawJoystick(centerX, centerY);
-                joystickCallback.onJoystickMoved(0, 0, getId());
+                for (int c = 0; c<8;c++){ //FORZA A ZERO QUANDO NON SI TOCCA LO SCHERMO
+                    joystickCallback.onJoystickMoved(0, 0, getId());
+                }
             }
 
 
