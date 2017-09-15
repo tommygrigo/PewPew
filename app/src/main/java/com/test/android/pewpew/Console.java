@@ -103,7 +103,7 @@ public class Console extends AppCompatActivity implements View.OnClickListener{
                 break;
 
             case R.id.Down_button:
-                myPlayer.y--;
+                myPlayer.y++;
                 break;
 
             default:
