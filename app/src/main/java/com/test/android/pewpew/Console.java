@@ -42,12 +42,6 @@ public class Console extends AppCompatActivity implements  Joystick.JoystickList
 
         myPlayer = new Player();
 
-
-
-
-
-
-
         rootRef.addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
