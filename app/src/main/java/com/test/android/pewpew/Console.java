@@ -95,12 +95,11 @@ public class Console extends AppCompatActivity implements  Joystick.JoystickList
     @Override
     public void onJoystickMoved(float xPercent, float yPercent, int source) {
         Log.d("Main Method", "X percent: " + xPercent+" Y percent: " + yPercent);
-        int xPer = (int) (xPercent*100);
-        int yPer = (int) (yPercent*100);
 
-        myPlayer.x = myPlayer.x + xPer/10;
-        myPlayer.y = myPlayer.y + yPer/10;
-        Log.d("mole","posizione server:" + xPer );
+
+        myPlayer.x = xPercent *100;
+        myPlayer.y = yPercent *100;
+        //Log.d("mole","posizione server:" + xPercent );
 
         updatePlayer();
 

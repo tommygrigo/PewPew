@@ -104,10 +104,10 @@ public class Joystick extends SurfaceView implements SurfaceHolder.Callback, Vie
                     joystickCallback.onJoystickMoved((constrainedX - centerX)/baseRadius, (constrainedY - centerY)/baseRadius, getId());
                 }
             }
-            else
-                drawJoystick(centerX,centerY);
-                joystickCallback.onJoystickMoved(0,0,getId());
-
+            else {
+                drawJoystick(centerX, centerY);
+                joystickCallback.onJoystickMoved(0, 0, getId());
+            }
 
 
         }

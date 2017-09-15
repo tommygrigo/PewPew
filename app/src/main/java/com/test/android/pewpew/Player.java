@@ -5,8 +5,8 @@ package com.test.android.pewpew;
  */
 
 public class Player {
-    public int x;
-    public int y;
+    public float x;
+    public float y;
     public int score;
     public int life;
 
@@ -18,13 +18,6 @@ public class Player {
         this.life = 100;
     }
 
-    public int getX(){
-        return x;
-    }
-
-    public int getY(){
-        return y;
-    }
 
 
 
