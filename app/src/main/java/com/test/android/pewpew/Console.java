@@ -23,12 +23,9 @@ import java.util.Map;
 
 
 
-public class Console extends AppCompatActivity implements /*View.OnClickListener,*/ Joystick.JoystickListener{
+public class Console extends AppCompatActivity implements  Joystick.JoystickListener{
 
-    Button left;
-    Button right;
-    Button up;
-    Button down;
+
 
     FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
     DatabaseReference rootRef = FirebaseDatabase.getInstance().getReference();
@@ -41,23 +38,12 @@ public class Console extends AppCompatActivity implements /*View.OnClickListener
         Joystick joystick = new Joystick(this);
         setContentView(R.layout.activity_joystick);
 
-       /*
-        left = (Button) findViewById(R.id.Left_button);
-        right = (Button) findViewById(R.id.Right_button);
-        up = (Button) findViewById(R.id.Up_button);
-        down = (Button) findViewById(R.id.Down_button);
-
-        left.setOnClickListener(this);
-        right.setOnClickListener(this);
-        up.setOnClickListener(this);
-        down.setOnClickListener(this);
-        */
 
         myPlayer = new Player();
 
 
 
-/*
+
 
 
 
@@ -91,40 +77,13 @@ public class Console extends AppCompatActivity implements /*View.OnClickListener
 
             }
         });
-*/
+
 
     }
 
-/*
-    @Override
-    public void onClick(View view) {
-        int id = view.getId();
 
-        switch (id) {
-            case R.id.Left_button:
-                myPlayer.x--;
-                break;
 
-            case R.id.Right_button:
-                myPlayer.x++;
-                break;
 
-            case R.id.Up_button:
-                myPlayer.y--;
-                break;
-
-            case R.id.Down_button:
-                myPlayer.y--;
-                break;
-
-            default:
-                break;
-        }
-
-        updatePlayer();
-
-    }
-*/
     public void updatePlayer() {
         Map<String, Object> list = new HashMap<String, Object>();
         list.put(nikname, myPlayer);
