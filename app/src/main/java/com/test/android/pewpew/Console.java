@@ -9,6 +9,7 @@ import android.view.SurfaceView;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
+import android.util.Log;
 
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
@@ -93,7 +94,16 @@ public class Console extends AppCompatActivity implements  Joystick.JoystickList
 
     @Override
     public void onJoystickMoved(float xPercent, float yPercent, int source) {
-       // Log.d("Main Method", "X percent: " + xPercent +"Y percent: " + yPercent);
+        Log.d("Main Method", "X percent: " + xPercent+" Y percent: " + yPercent);
+        int xPer = (int) (xPercent*100);
+        int yPer = (int) (yPercent*100);
+
+        myPlayer.x = myPlayer.x + xPer/10;
+        myPlayer.y = myPlayer.y + yPer/10;
+        Log.d("mole","posizione server:" + xPer );
+
+        updatePlayer();
+
     }
 }
 
