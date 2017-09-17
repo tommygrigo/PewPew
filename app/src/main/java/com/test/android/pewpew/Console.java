@@ -19,6 +19,7 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -33,6 +34,9 @@ public class Console extends AppCompatActivity implements  Joystick.JoystickList
     String nikname = "io";
     Player myPlayer;
     DatabaseReference playerRef;
+    int counter = 0;
+    float[] mediaX= new float[11];
+    float[] mediaY= new float[11];
 
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -94,14 +98,34 @@ public class Console extends AppCompatActivity implements  Joystick.JoystickList
 
     @Override
     public void onJoystickMoved(float xPercent, float yPercent, int source) {
-        Log.d("Main Method", "X percent: " + xPercent+" Y percent: " + yPercent);
+        Log.d("Main Method", "X percent: " + xPercent + " Y percent: " + yPercent);
+        int c;
+        float xOut = 0;
+        float yOut = 0;
 
 
-        myPlayer.x = xPercent *100;
-        myPlayer.y = yPercent *100;
-        //Log.d("mole","posizione server:" + xPercent );
+        Log.d("COUNTEER","contetore:" + counter );
 
-        updatePlayer();
+        mediaX[counter] = xPercent;
+        mediaY[counter] = yPercent;
+        counter = counter+1;
+
+        if (counter == 11) {
+
+
+            for(c=0;c<=10;c++){
+                xOut = mediaX[c] + xOut;
+                yOut = mediaY[c] + yOut;
+            }
+            Log.d("mole","posizione server:" + xOut );
+
+            myPlayer.x = xOut/10 * 100;
+            myPlayer.y = yOut/10 * 100;
+
+            updatePlayer();
+            counter=0;
+        }
+
 
     }
 }
