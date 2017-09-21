@@ -10,8 +10,18 @@
     <com.test.android.pewpew.Joystick
         android:layout_width="300dp"
         android:layout_height="match_parent"
-        android:id="@+id/Joystick"/>
+        android:id="@+id/LJoystick" />
 
+    <ProgressBar
+        android:id="@+id/progressBar3"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" />
 
+    <com.test.android.pewpew.Joystick
+        android:id="@+id/RJoystick"
+        android:layout_width="300dp"
+        android:layout_height="match_parent" />
 
 </LinearLayout >

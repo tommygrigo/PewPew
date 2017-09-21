@@ -97,29 +97,32 @@ public class Console extends AppCompatActivity implements  Joystick.JoystickList
         float xOut = 0;
         float yOut = 0;
 
+        if (source == R.id.LJoystick) {
+            Log.d("COUNTEER", "contetore:" + counter);
 
-        Log.d("COUNTEER","contetore:" + counter );
+            mediaX[counter] = xPercent;
+            mediaY[counter] = yPercent;
+            counter = counter + 1;
 
-        mediaX[counter] = xPercent;
-        mediaY[counter] = yPercent;
-        counter = counter+1;
-
-        if (counter == 11) {
+            //if (counter == 11)
+            {
 
 
-            for(c=0;c<=10;c++){
-                xOut = mediaX[c] + xOut;
-                yOut = mediaY[c] + yOut;
+                for (c = 0; c <= 10; c++) {
+                    xOut = mediaX[c] + xOut;
+                    yOut = mediaY[c] + yOut;
+                }
+                Log.d("mole", "posizione server:" + xOut);
+
+                myPlayer.x = xOut / 10 * 100;
+                myPlayer.y = yOut / 10 * 100;
+
+                counter = 0;
             }
-            Log.d("mole","posizione server:" + xOut );
-
-            myPlayer.x = xOut/10 * 100;
-            myPlayer.y = yOut/10 * 100;
-
-            updatePlayer();
-            counter=0;
+        } else if (source == R.id.RJoystick) {
+            myPlayer.rotation = (float) Math.atan2((double) yPercent, (double) xPercent);
         }
-
+        updatePlayer();
 
     }
 }

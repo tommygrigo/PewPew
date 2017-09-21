@@ -8,12 +8,12 @@
         "source": "/media/tommy/tom/Workspace/Project Game/PewPew/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/layout/activity_joystick.xml",
-        "source": "/media/tommy/tom/Workspace/Project Game/PewPew/app/src/main/res/layout/activity_joystick.xml"
-    },
-    {
         "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/layout/activity_console.xml",
         "source": "/media/tommy/tom/Workspace/Project Game/PewPew/app/src/main/res/layout/activity_console.xml"
+    },
+    {
+        "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/layout/activity_joystick.xml",
+        "source": "/media/tommy/tom/Workspace/Project Game/PewPew/app/src/main/res/layout/activity_joystick.xml"
     },
     {
         "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
@@ -28,24 +28,24 @@
         "source": "/root/.android/build-cache/5a0123da98c9bae5b23c37284998c37acacfb001/output/res/layout/abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
-        "source": "/root/.android/build-cache/5a0123da98c9bae5b23c37284998c37acacfb001/output/res/layout/abc_screen_toolbar.xml"
-    },
-    {
         "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
         "source": "/root/.android/build-cache/5a0123da98c9bae5b23c37284998c37acacfb001/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/root/.android/build-cache/5a0123da98c9bae5b23c37284998c37acacfb001/output/res/layout/abc_screen_toolbar.xml"
     },
     {
         "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
         "source": "/root/.android/build-cache/5a0123da98c9bae5b23c37284998c37acacfb001/output/res/layout/abc_activity_chooser_view.xml"
     },
     {
-        "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
-        "source": "/root/.android/build-cache/5a0123da98c9bae5b23c37284998c37acacfb001/output/res/layout/abc_list_menu_item_checkbox.xml"
-    },
-    {
         "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/layout/activity_log_in.xml",
         "source": "/media/tommy/tom/Workspace/Project Game/PewPew/app/src/main/res/layout/activity_log_in.xml"
+    },
+    {
+        "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/root/.android/build-cache/5a0123da98c9bae5b23c37284998c37acacfb001/output/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "/media/tommy/tom/Workspace/Project Game/PewPew/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
